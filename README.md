@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0070-climbing-stairs) |
 | [0300-longest-increasing-subsequence](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0300-longest-increasing-subsequence) |
 | [0518-coin-change-ii](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0518-coin-change-ii) |
 ## Hash Table
@@ -24,4 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1331-rank-transform-of-an-array) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
