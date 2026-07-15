@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0070-climbing-stairs) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Memoization
 |  |
 | ------- |
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1291-sequential-digits) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
