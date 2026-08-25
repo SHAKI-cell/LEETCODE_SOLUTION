@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0300-longest-increasing-subsequence) |
+| [0338-counting-bits](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0338-counting-bits) |
 | [0486-predict-the-winner](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0518-coin-change-ii) |
 | [0877-stone-game](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0877-stone-game) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0078-subsets) |
+| [0338-counting-bits](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0338-counting-bits) |
 | [1386-cinema-seat-allocation](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/3514-number-of-unique-xor-triplets-ii) |
