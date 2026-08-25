@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0078-subsets) |
+| [0268-missing-number](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0300-longest-increasing-subsequence) |
 | [0486-predict-the-winner](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0518-coin-change-ii) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0300-longest-increasing-subsequence) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Dynamic Programming
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0268-missing-number) |
 | [1331-rank-transform-of-an-array](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -67,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -78,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0279-perfect-squares) |
 | [0486-predict-the-winner](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0628-maximum-product-of-three-numbers) |
@@ -172,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0078-subsets) |
+| [0268-missing-number](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0338-counting-bits) |
 | [1386-cinema-seat-allocation](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
