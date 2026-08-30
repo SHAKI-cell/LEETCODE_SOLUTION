@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0518-coin-change-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0877-stone-game) |
+| [0990-satisfiability-of-equality-equations](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0990-satisfiability-of-equality-equations) |
 | [1140-stone-game-ii](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1331-rank-transform-of-an-array) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0316-remove-duplicate-letters) |
+| [0990-satisfiability-of-equality-equations](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0990-satisfiability-of-equality-equations) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0785-is-graph-bipartite) |
+| [0990-satisfiability-of-equality-equations](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0990-satisfiability-of-equality-equations) |
 | [3310-remove-methods-from-project](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/3310-remove-methods-from-project) |
 ## Backtracking
 |  |
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0785-is-graph-bipartite) |
+| [0990-satisfiability-of-equality-equations](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0990-satisfiability-of-equality-equations) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Graph Coloring
 |  |
