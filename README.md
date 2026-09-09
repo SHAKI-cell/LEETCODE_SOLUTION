@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0743-network-delay-time) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting Sort
 |  |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0210-course-schedule-ii) |
+| [0743-network-delay-time](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0785-is-graph-bipartite) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0210-course-schedule-ii) |
 | [0279-perfect-squares](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0279-perfect-squares) |
+| [0743-network-delay-time](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0785-is-graph-bipartite) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0210-course-schedule-ii) |
+| [0743-network-delay-time](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0785-is-graph-bipartite) |
 | [0990-satisfiability-of-equality-equations](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -365,4 +369,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
