@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/3483-unique-3-digit-even-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0300-longest-increasing-subsequence) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Hash Table
 |  |
 | ------- |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/3731-find-missing-elements) |
