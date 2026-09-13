@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0518-coin-change-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0628-maximum-product-of-three-numbers) |
+| [0835-image-overlap](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0877-stone-game) |
 | [0990-satisfiability-of-equality-equations](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0990-satisfiability-of-equality-equations) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0835-image-overlap) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1260-shift-2d-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/3568-minimum-moves-to-clean-the-classroom) |
