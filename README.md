@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0070-climbing-stairs) |
+| [0223-rectangle-area](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0223-rectangle-area) |
 | [0268-missing-number](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0279-perfect-squares) |
 | [0486-predict-the-winner](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0486-predict-the-winner) |
@@ -403,5 +404,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0223-rectangle-area) |
 | [0836-rectangle-overlap](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
