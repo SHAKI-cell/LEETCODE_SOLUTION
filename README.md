@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2029-stone-game-ix) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Shortest Path
 |  |
 | ------- |
