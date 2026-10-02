@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0115-distinct-subsequences) |
 | [0279-perfect-squares](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0279-perfect-squares) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0115-distinct-subsequences) |
 | [0316-remove-duplicate-letters](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0316-remove-duplicate-letters) |
 | [0940-distinct-subsequences-ii](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0940-distinct-subsequences-ii) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0078-subsets) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Prefix Sum
@@ -442,5 +445,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
