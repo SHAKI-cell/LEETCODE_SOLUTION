@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0115-distinct-subsequences) |
 | [0279-perfect-squares](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0279-perfect-squares) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0115-distinct-subsequences) |
 | [0316-remove-duplicate-letters](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0316-remove-duplicate-letters) |
 | [0940-distinct-subsequences-ii](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0940-distinct-subsequences-ii) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0032-longest-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -446,5 +449,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0032-longest-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
