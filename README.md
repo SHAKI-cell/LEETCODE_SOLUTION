@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1563-stone-game-v) |
+| [1631-path-with-minimum-effort](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1631-path-with-minimum-effort) |
 | [1872-stone-game-viii](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2029-stone-game-ix) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0300-longest-increasing-subsequence) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1631-path-with-minimum-effort](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1631-path-with-minimum-effort) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Dynamic Programming
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0835-image-overlap) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1260-shift-2d-grid) |
+| [1631-path-with-minimum-effort](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1631-path-with-minimum-effort) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Bit Manipulation
 |  |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0743-network-delay-time) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1631-path-with-minimum-effort](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1631-path-with-minimum-effort) |
 ## Counting Sort
 |  |
 | ------- |
@@ -329,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0785-is-graph-bipartite) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1631-path-with-minimum-effort](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1631-path-with-minimum-effort) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [3310-remove-methods-from-project](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/3310-remove-methods-from-project) |
@@ -342,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0785-is-graph-bipartite) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1631-path-with-minimum-effort](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1631-path-with-minimum-effort) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [3310-remove-methods-from-project](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -418,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0785-is-graph-bipartite) |
 | [0990-satisfiability-of-equality-equations](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1631-path-with-minimum-effort](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1631-path-with-minimum-effort) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Graph Coloring
@@ -441,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1631-path-with-minimum-effort) |
 ## Tree
 |  |
 | ------- |
