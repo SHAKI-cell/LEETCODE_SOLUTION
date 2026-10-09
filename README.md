@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0078-subsets) |
 | [0260-single-number-iii](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0268-missing-number) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1331-rank-transform-of-an-array) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0075-sort-colors) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -476,4 +479,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
