@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2395-find-subarrays-with-equal-sum) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1291-sequential-digits) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/3499-maximize-active-section-with-trade-i) |
