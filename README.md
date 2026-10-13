@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0877-stone-game) |
 | [0991-broken-calculator](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0991-broken-calculator) |
 | [1140-stone-game-ii](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1140-stone-game-ii) |
+| [1323-maximum-69-number](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1323-maximum-69-number) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1510-stone-game-iv) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0948-bag-of-tokens) |
 | [0991-broken-calculator](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0991-broken-calculator) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1323-maximum-69-number](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1323-maximum-69-number) |
 | [1328-break-a-palindrome](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1328-break-a-palindrome) |
 | [1386-cinema-seat-allocation](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
