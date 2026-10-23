@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0033-search-in-rotated-sorted-array) |
 | [0075-sort-colors](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0078-subsets) |
+| [0135-candy](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0135-candy) |
 | [0162-find-peak-element](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0162-find-peak-element) |
 | [0260-single-number-iii](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0268-missing-number) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0135-candy) |
 | [0316-remove-duplicate-letters](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0316-remove-duplicate-letters) |
 | [0678-valid-parenthesis-string](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0921-minimum-add-to-make-parentheses-valid) |
