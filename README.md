@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2029-stone-game-ix) |
+| [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2409-count-days-spent-together](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2409-count-days-spent-together) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1927-sum-game](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1927-sum-game) |
+| [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2409-count-days-spent-together](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2409-count-days-spent-together) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1927-sum-game](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2029-stone-game-ix) |
+| [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -369,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2029-stone-game-ix) |
+| [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 ## Minimax
 |  |
 | ------- |
