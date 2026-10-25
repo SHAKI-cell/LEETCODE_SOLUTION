@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1563-stone-game-v) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1631-path-with-minimum-effort](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1631-path-with-minimum-effort) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1872-stone-game-viii](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2029-stone-game-ix) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0300-longest-increasing-subsequence) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1631-path-with-minimum-effort](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1631-path-with-minimum-effort) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0075-sort-colors) |
 | [0948-bag-of-tokens](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0948-bag-of-tokens) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1793-maximum-score-of-a-good-subarray) |
 ## Greedy
 |  |
 | ------- |
@@ -314,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1793-maximum-score-of-a-good-subarray) |
 ## Matrix
 |  |
 | ------- |
@@ -558,4 +563,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Cartesian Tree
+|  |
+| ------- |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1793-maximum-score-of-a-good-subarray) |
 <!---LeetCode Topics End-->
