@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2395-find-subarrays-with-equal-sum) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -366,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2029-stone-game-ix](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2029-stone-game-ix) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
