@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1563-stone-game-v](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1563-stone-game-v) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1631-path-with-minimum-effort](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1631-path-with-minimum-effort) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1401-circle-and-rectangle-overlapping](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1510-stone-game-iv) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1563-stone-game-v](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1872-stone-game-viii) |
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1328-break-a-palindrome](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1328-break-a-palindrome) |
 | [1386-cinema-seat-allocation](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1921-eliminate-maximum-number-of-monsters) |
@@ -384,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1510-stone-game-iv) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1563-stone-game-v](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1927-sum-game) |
