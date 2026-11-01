@@ -6,18 +6,19 @@ public:
         for(int i=0;i<n;i++){
             mp[arr[i]]++;
         }
-        vector<int>freq;
-        int count=0;
+       priority_queue<int,vector<int>,greater<int>>pq;
         for(auto &x:mp){
-           freq.push_back(x.second);
+           pq.push(x.second);
         }
-       sort(begin(freq),end(freq));
-       for(int i=0;i<freq.size();i++){
-           k-=freq[i];
-           if(k<0){
-             return freq.size()-i;
-           }
-       }
-       return 0;
+        while(!pq.empty()){
+            int t1=pq.top();
+            k-=t1;
+            if(k<0){
+                return pq.size();
+            }
+            pq.pop();
+
+        }
+        return 0;
     }
 };
