@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0300-longest-increasing-subsequence) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0518-coin-change-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0628-maximum-product-of-three-numbers) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0223-rectangle-area](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0223-rectangle-area) |
 | [0268-missing-number](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0279-perfect-squares) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0836-rectangle-overlap) |
