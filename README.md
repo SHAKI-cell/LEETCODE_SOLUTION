@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1563-stone-game-v](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1563-stone-game-v) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1578-minimum-time-to-make-rope-colorful) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0948-bag-of-tokens) |
 | [1331-rank-transform-of-an-array](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1323-maximum-69-number) |
 | [1328-break-a-palindrome](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1328-break-a-palindrome) |
 | [1386-cinema-seat-allocation](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1386-cinema-seat-allocation) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1578-minimum-time-to-make-rope-colorful) |
@@ -372,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [2029-stone-game-ix](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2029-stone-game-ix) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
