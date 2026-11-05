@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0300-longest-increasing-subsequence) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1631-path-with-minimum-effort](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1631-path-with-minimum-effort) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1793-maximum-score-of-a-good-subarray) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0628-maximum-product-of-three-numbers) |
 | [0948-bag-of-tokens](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0948-bag-of-tokens) |
 | [1331-rank-transform-of-an-array](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0075-sort-colors) |
 | [0948-bag-of-tokens](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/0948-bag-of-tokens) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
