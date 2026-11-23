@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1927-sum-game](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/1927-sum-game) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2409-count-days-spent-together](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2409-count-days-spent-together) |
