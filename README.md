@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3085-minimum-deletions-to-make-string-k-special](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/3483-unique-3-digit-even-numbers) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2971-find-polygon-with-the-largest-perimeter) |
+| [3085-minimum-deletions-to-make-string-k-special](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/3536-maximum-product-of-two-digits) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3085-minimum-deletions-to-make-string-k-special](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -344,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2971-find-polygon-with-the-largest-perimeter) |
+| [3085-minimum-deletions-to-make-string-k-special](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -396,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2029-stone-game-ix) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [3085-minimum-deletions-to-make-string-k-special](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/SHAKI-cell/LEETCODE_SOLUTION/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
