@@ -5,18 +5,19 @@ public:
         for(char &ch:word){
             freq[ch-'a']++;
         }
+        sort(begin(freq),end(freq));
         int result=word.length();
+        int cumm_del=0;
        for(int i=0;i<26;i++){
-          int del=0;
-          for(int j=0;j<26;j++){
-               if(i==j) continue;
-               if(freq[j]<freq[i]){
-                  del+=freq[j];
-               } else if(abs(freq[j]-freq[i])>k){
-                 del+=abs(freq[j]-freq[i]-k);       
+          int del=cumm_del;
+          for(int j=25;j>i;j--){
+               if(freq[j]-freq[i] <=k){
+                break;
                }
+               del+=freq[j]-freq[i]-k;
           }
           result=min(result,del);
+          cumm_del+=freq[i];
        }
        return result;
     }
